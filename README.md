@@ -1,2 +1,4 @@
 # Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+[Microsoft's AI-Focused Restructuring](https://arstechnica.com/gadgets/2025/01/amid-a-flurry-of-hype-microsoft-reorganizes-entire-dev-team-around-ai/)
+
+While many people think of the technical implications of AI, this article highlights the structural changes that this technology may bring to tech companies. Already, Microsoft has upended their traditional team constructure to adapt and unify their processes in response to the introduction of AI. As a major player in the AI space, with their investment in OpenAI, this may push the tech industry to consider structural adoption of AI.
